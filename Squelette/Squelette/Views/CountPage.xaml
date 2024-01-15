@@ -13,8 +13,6 @@
 
             <Label Text="0" />
     
-
-
         </StackLayout>
         
     </ContentPage.Content>
